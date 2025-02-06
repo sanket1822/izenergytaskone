@@ -83,8 +83,6 @@ h1 {
     <div class="contact-form">
         <h1 id="headerOne">Contact Us</h1>
 
-       
-
         <form method="post" action="" id="custom-form">
             <div class="form-container">
                 <div class="left-container">

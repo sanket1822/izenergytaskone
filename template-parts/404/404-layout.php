@@ -20,9 +20,7 @@ $astra_404_subtitle_tag = ( true === astra_check_is_structural_setup() ) ? 'h3' 
 			<?php echo esc_html( astra_default_strings( 'string-404-sub-title', false ) ); ?>
 		</<?php echo esc_attr( $astra_404_subtitle_tag ); ?>>
 
-		<div class="ast-404-search">
-			<?php the_widget( 'WP_Widget_Search' ); ?>
-		</div>
+		
 
 	</div><!-- .page-content -->
 </div>
